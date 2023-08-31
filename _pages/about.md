@@ -7,8 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+Bibliography
+======
+I am currently a joint Ph.D. student (2019-ongoing) at [Medical Mechatronics Lab](http://www.labren.org/mm/) of the Department of Biomedical Engineering, [National University of Singapore]((https://www.nus.edu.sg/)), under supervision of [Prof. REN Hongliang](https://www.ee.cuhk.edu.hk/en-gb/people/academic-staff/professors/prof-ren-hongliang) and at [Advanced Actuators and Robotics Lab](https://wanglab.mee.sustech.edu.cn/) of the Department of Mechanical and Energy Engineering, [Southern University of Science and Technology](https://www.sustech.edu.cn/), under supervision of [Prof. WANG Hongqiang](https://faculty.sustech.edu.cn/?tagid=wanghq&iscss=1&snapid=1&orderby=date&go=1). Before that, I received my B.Eng. degree in Mechanical Engineering from the [University of Electronic Science and Technology of China]([https://www.suda.edu.cn/](https://www.uestc.edu.cn/)) in 2015. My research interests are Modeling of Variable Stiffness and Its Applications in Soft Robotics and Healthcare.
 
 A data-driven personal website
 ======
